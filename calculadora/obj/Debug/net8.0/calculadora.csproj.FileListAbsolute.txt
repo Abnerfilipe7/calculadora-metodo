@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\bin\Debug\net8.0\calculadora.exe
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\bin\Debug\net8.0\calculadora.deps.json
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\bin\Debug\net8.0\calculadora.dll
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\bin\Debug\net8.0\calculadora.pdb
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.sourcelink.json
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.dll
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.pdb
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+C:\Users\Aluno\Documents\ABNER FILIPE\calculadora-metodo\calculadora\obj\Debug\net8.0\ref\calculadora.dll
